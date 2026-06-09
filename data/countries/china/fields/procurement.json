@@ -1,0 +1,81 @@
+{
+  "last_updated": "2026-06-09T10:50:18Z",
+  "scope": "country_field",
+  "country": "China",
+  "job_field": "Procurement",
+  "total_active": 5,
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139098",
+      "title": "Global Category Buyer, Intermediates & Renewables",
+      "url": "https://basf.jobs/job-invite/139098/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "job_field": "Procurement",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-04T05:29:00Z",
+      "description_preview": "= Objectives = • Global Category Buyer of chemical raw materials in the global team Procurement Functional Intermediates for Direct Procurement department. • Ensure a competitive, sustainable and secured supply of raw materials to the internal business partners within the defined area of responsibility. Negotiate...",
+      "detail_path": "data/jobs/139098.json"
+    },
+    {
+      "job_id": "139194",
+      "title": "Officer, Procurement Operations & Process Excellence (1 Year Contract) 1",
+      "url": "https://basf.jobs/job-invite/139194/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Fengxian",
+      "job_field": "Procurement",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "date_posted": "2026-06-03T06:06:05Z",
+      "description_preview": "About The Role - Execute and monitor purchase-to-pay process for indirect cluster, to ensure delivery reliability targets and efficient end-to-end process - Assist internal departments (e.g. Engineering, HR, Legal, etc.) in following procurement guidelines and purchase-to-pay procedures. - Actively steer buying...",
+      "detail_path": "data/jobs/139194.json"
+    },
+    {
+      "job_id": "139191",
+      "title": "Officer, Procurement Operations & Process Excellence (1 Year Contract)",
+      "url": "https://basf.jobs/job-invite/139191/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Fengxian",
+      "job_field": "Procurement",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "date_posted": "2026-06-03T06:05:26Z",
+      "description_preview": "About The Role - Execute and monitor purchase-to-pay process, to ensure delivery reliability targets and efficient end-to-end process - Assist internal departments (e.g. Supply Chain, Engineering, HR, Legal, etc.) in following procurement guidelines and purchase-to-pay procedures. - Actively steer buying channel usage...",
+      "detail_path": "data/jobs/139191.json"
+    },
+    {
+      "job_id": "139190",
+      "title": "Assistant Manager, Procurement Process Engineer",
+      "url": "https://basf.jobs/job-invite/139190/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Fengxian",
+      "job_field": "Procurement",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-03T06:04:27Z",
+      "description_preview": "About The Role - Lead process improvement projects as focal process engineer for Asia Pacific - Identify opportunities and drive process optimization for direct and indirect Procurement - Implement process optimization measures and ensure change management cross procurement and relevant stakeholders - Improve project...",
+      "detail_path": "data/jobs/139190.json"
+    },
+    {
+      "job_id": "139080",
+      "title": "Buyer, IT Digital Service Procurement",
+      "url": "https://basf.jobs/job-invite/139080/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "job_field": "Procurement",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-28T09:05:09Z",
+      "description_preview": "About The Role As buyer responsible for sourcing purchasing and expediting of services in assigned categories according to category strategy Identify and pursue cost saving opportunities utilizing excellent negotiation skills, analyzing of market trends and selecting appropriate suppliers with category manager Follow...",
+      "detail_path": "data/jobs/139080.json"
+    }
+  ]
+}

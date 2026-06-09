@@ -1,0 +1,25 @@
+{
+  "last_updated": "2026-06-09T10:50:18Z",
+  "scope": "country_field",
+  "country": "India",
+  "job_field": "Quality Management",
+  "total_active": 1,
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "138845",
+      "title": "Assistant Manager QC",
+      "url": "https://basf.jobs/job-invite/138845/?locale=en_US",
+      "country": "India",
+      "city": "Mangalore",
+      "state": "Karnataka",
+      "job_field": "Quality Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-25T05:19:23Z",
+      "description_preview": "O bjectives of the Position Responsible for the efficiency and enhancement of routine inspection by improving test methods and procedures, or via recipe optimization in collaboration with Product Owner to reduce systematic adjustment. Responsible for the asset management of laboratory testing equipment and facility by...",
+      "detail_path": "data/jobs/138845.json"
+    }
+  ]
+}

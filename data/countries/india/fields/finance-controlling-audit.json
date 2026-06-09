@@ -1,0 +1,67 @@
+{
+  "last_updated": "2026-06-09T10:50:18Z",
+  "scope": "country_field",
+  "country": "India",
+  "job_field": "Finance, Controlling & Audit",
+  "total_active": 4,
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139329",
+      "title": "GB/G Head of Finance Services",
+      "url": "https://basf.jobs/job-invite/139329/?locale=en_US",
+      "country": "India",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-04T16:00:00Z",
+      "description_preview": "Head of Finance India will lead all finance activities for the Service Delivery Unit (SDU) in India, ensuring strong financial control, insightful business partnering, and effective delivery of finance services that support the SDU’s growth and operational excellence. This role combines strategic leadership,...",
+      "detail_path": "data/jobs/139329.json"
+    },
+    {
+      "job_id": "138711",
+      "title": "Manager - Business/Site Controller 1",
+      "url": "https://basf.jobs/job-invite/138711/?locale=en_US",
+      "country": "India",
+      "city": "Mangalore",
+      "state": "Karnataka",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-21T07:46:34Z",
+      "description_preview": "O bjecti v es of t h e P osi t ion In charge of controlling tasks of EC Automotive Coatings in India, i.e. planning and performance management, product costing in production site, business analysis, governance and compliance As trusted business partner to local business and site management team to provide reliable...",
+      "detail_path": "data/jobs/138711.json"
+    },
+    {
+      "job_id": "135326",
+      "title": "Business Controller - Performance Materials, India",
+      "url": "https://basf.jobs/job-invite/135326/?locale=en_US",
+      "country": "India",
+      "city": "Godrej One - Mumbai",
+      "state": "Maharashtra",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-04-08T06:10:46Z",
+      "description_preview": "About The Role Lead PM Controlling team in India by steering, providing guidance and inspiring the team to be valued business partners for stakeholders in India. Be responsible for overall controlling, reporting, business analysis activities and ensuring compliance in India. Represent PM interest in discussion with...",
+      "detail_path": "data/jobs/135326.json"
+    },
+    {
+      "job_id": "135052",
+      "title": "Deputy Manager - Reporting & MIS",
+      "url": "https://basf.jobs/job-invite/135052/?locale=en_US",
+      "country": "India",
+      "city": "Godrej One - Mumbai",
+      "state": "Maharashtra",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-03-31T09:52:05Z",
+      "description_preview": "About The Role Ensure that statutory reporting is completed in compliance manner and on timely basis. Ensure that group reporting is completed in compliant manner and on timely basis. Ensure completion of limited review and audits with quality and controls on a timely basis. Perform basic analysis on the financial...",
+      "detail_path": "data/jobs/135052.json"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "last_updated": "2026-06-09T10:50:18Z",
+  "scope": "country_field",
+  "country": "Philippines",
+  "job_field": "Research & Development",
+  "total_active": 1,
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "131884",
+      "title": "Field Operations Assistant",
+      "url": "https://basf.jobs/job-invite/131884/?locale=en_US",
+      "country": "Philippines",
+      "city": "Bay",
+      "state": "Calabarzon",
+      "job_field": "Research & Development",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "date_posted": "2026-01-10T11:55:29Z",
+      "description_preview": "In the Philippines, BASF has been supporting manufacturers from various industries since 1963. Today, BASF is a leading supplier of chemicals for industries, including Construction and Coatings, Automotive, Nutrition Health, Home Personal Care, and Agriculture. BASF also operates an Agricultural Research Station in...",
+      "detail_path": "data/jobs/131884.json"
+    }
+  ]
+}

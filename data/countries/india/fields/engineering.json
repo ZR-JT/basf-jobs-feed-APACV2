@@ -1,0 +1,39 @@
+{
+  "last_updated": "2026-06-09T10:50:18Z",
+  "scope": "country_field",
+  "country": "India",
+  "job_field": "Engineering",
+  "total_active": 2,
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "138715",
+      "title": "Deputy Manager - Engineering & Maintenance",
+      "url": "https://basf.jobs/job-invite/138715/?locale=en_US",
+      "country": "India",
+      "city": "Mangalore",
+      "state": "Karnataka",
+      "job_field": "Engineering",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-21T07:52:44Z",
+      "description_preview": "O bjectives of the Position Shift + Enter proceeds to the next line without bullet; Enter inserts new bullet Lead, coordinate and monitor engineering projects and maintenance function as per the agreed norms under the direction of production head. Ensuring smooth functioning of production Paint CED plant with minimum...",
+      "detail_path": "data/jobs/138715.json"
+    },
+    {
+      "job_id": "135271",
+      "title": "Process engineer",
+      "url": "https://basf.jobs/job-invite/135271/?locale=en_US",
+      "country": "India",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "state": "Maharashtra",
+      "job_field": "Engineering",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-04-13T06:40:44Z",
+      "description_preview": "About The Role Provide support to process engineering and technology transfer topics in India Prepare a comprehensive engineering package for process development and scale-up topics in India pertaining to batch processes Continuously support the production to optimize plant performance and output Support process...",
+      "detail_path": "data/jobs/135271.json"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "last_updated": "2026-06-09T10:50:18Z",
+  "scope": "country",
+  "country": "Thailand",
+  "total_active": 3,
+  "fields": {
+    "Research & Development": 2,
+    "Marketing & Sales": 1
+  },
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "This file contains only BASF jobs in Thailand. Descriptions are short previews. Fetch detail_path only for shortlisted roles. For role-specific searches, use data/intent-map.json or the field JSON files when available. Copy job URLs exactly from job.url and never generate basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139382",
+      "title": "Assistant Manager - Sales",
+      "url": "https://basf.jobs/job-invite/139382/?locale=en_US",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "state": "Bangkok Metropolis (Krung Thep Maha Nakhon)",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-04T03:44:53Z",
+      "description_preview": "Main responsibilities To achieve the sales target in term of cCM1 and volume. Compile and update market information on potential customers, competitor’s activities and market situation. Provide the APO forecast with accuracy and control the goods stock in properly level. Cooperate with Customer Service Operations,...",
+      "detail_path": "data/jobs/139382.json"
+    },
+    {
+      "job_id": "136081",
+      "title": "Lab Assistant Staff (12 months contract)",
+      "url": "https://basf.jobs/job-invite/136081/?locale=en_US",
+      "country": "Thailand",
+      "city": "Chonburi",
+      "state": "Chon Buri",
+      "job_field": "Research & Development",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "date_posted": "2026-05-06T11:13:45Z",
+      "detail_path": "data/jobs/136081.json"
+    },
+    {
+      "job_id": "136084",
+      "title": "Chemist",
+      "url": "https://basf.jobs/job-invite/136084/?locale=en_US",
+      "country": "Thailand",
+      "city": "Chonburi",
+      "state": "Chon Buri",
+      "job_field": "Research & Development",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-06T11:11:30Z",
+      "detail_path": "data/jobs/136084.json"
+    }
+  ]
+}

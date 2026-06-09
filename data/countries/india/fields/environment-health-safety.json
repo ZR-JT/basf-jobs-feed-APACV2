@@ -1,0 +1,39 @@
+{
+  "last_updated": "2026-06-09T10:50:18Z",
+  "scope": "country_field",
+  "country": "India",
+  "job_field": "Environment, Health & Safety",
+  "total_active": 2,
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "133873",
+      "title": "Manager-Occupational, Transport & Environment Safety",
+      "url": "https://basf.jobs/job-invite/133873/?locale=en_US",
+      "country": "India",
+      "city": "Godrej One - Mumbai",
+      "state": "Maharashtra",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-03-05T05:05:34Z",
+      "description_preview": "About The Role Provide support to all stake holders of BASF in India for the effective implementation of Organization, Occupational Safety, Environment protection Transport Safety discipline initiatives to ensure safety of employees in work, prevention of incidents and continuous improvement in EHS performance of the...",
+      "detail_path": "data/jobs/133873.json"
+    },
+    {
+      "job_id": "132795",
+      "title": "Manager - Process Safety & Emergency Response",
+      "url": "https://basf.jobs/job-invite/132795/?locale=en_US",
+      "country": "India",
+      "city": "Godrej One - Mumbai",
+      "state": "Maharashtra",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-01-30T07:02:46Z",
+      "description_preview": "About The Role Be responsible to support service recipients in implementing BASF Group EHS requirements and guidance documents, to provide consultancy and support to fulfill legal and BASF requirements on process safety in India or in Asia Pacific countries if requested Act as a Process Safety expert to ensure high...",
+      "detail_path": "data/jobs/132795.json"
+    }
+  ]
+}

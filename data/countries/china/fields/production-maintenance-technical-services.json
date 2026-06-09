@@ -1,0 +1,67 @@
+{
+  "last_updated": "2026-06-09T10:50:18Z",
+  "scope": "country_field",
+  "country": "China",
+  "job_field": "Production, Maintenance & Technical Services",
+  "total_active": 4,
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "139279",
+      "title": "Production Operator生产操作员",
+      "url": "https://basf.jobs/job-invite/139279/?locale=en_US",
+      "country": "China",
+      "city": "Huizhou",
+      "state": "Guangdong",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-06-05T03:35:23Z",
+      "description_preview": "主要工作职责 ： - 安全环保： 严格遵守BPCH的安环保制度 及时指出任何在BPCH内违反安环保制度的行为并汇报确保负责区域环境卫生状况持续改进和提高，确保工完, 料尽,场地清正确处理突发意外事件并在***时间汇报准时参加5分钟安全教育认真进行现场交接班正确使用并维护劳防用品，防护设施和器械 - 生产： 按时完成下达的生产任务和工作量，严格按照操作规程、作业指导书准确操作，实现岗位操作规范化对本人负责的所有与反应或后反应相关的原料配制及投料和转料过程全面负责，...",
+      "detail_path": "data/jobs/139279.json"
+    },
+    {
+      "job_id": "139210",
+      "title": "Senior Process Engineer",
+      "url": "https://basf.jobs/job-invite/139210/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-29T08:29:36Z",
+      "description_preview": "About the Role According to the supervisor’s direction and plant production guidance, generating state-of-the-art and novel design input for projects and process improvements Provide creative solutions where current standard practice does not deliver required results Technology support during new projects How You Will...",
+      "detail_path": "data/jobs/139210.json"
+    },
+    {
+      "job_id": "139199",
+      "title": "Assistant Manager, APAC Technical and Documentation Services",
+      "url": "https://basf.jobs/job-invite/139199/?locale=en_US",
+      "country": "China",
+      "city": "Shanghai",
+      "state": "Fengxian",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-29T07:13:01Z",
+      "description_preview": "About The Role Contribute to strategic business by management of technical process data, TDS training documentation for technology and process solutions reference, sales teams selling argumentation and customer focused training material for APAC brands and specific global brands and products. Regional and Global...",
+      "detail_path": "data/jobs/139199.json"
+    },
+    {
+      "job_id": "139186",
+      "title": "Assistant Manager, Regional Trainer",
+      "url": "https://basf.jobs/job-invite/139186/?locale=en_US",
+      "country": "China",
+      "city": "Guangzhou",
+      "state": "Guangdong",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-29T07:09:35Z",
+      "description_preview": "About The Role Asia Pacific Regional Trainer implements and develops competencies and skillsets for BASF, distribution and customer personnel by deployment of technical training and service packages for all BASF brands according to strategic business objectives How You Will Do It - Implement into BASF, Partner and...",
+      "detail_path": "data/jobs/139186.json"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "last_updated": "2026-06-09T10:50:18Z",
+  "scope": "country_field",
+  "country": "India",
+  "job_field": "Procurement",
+  "total_active": 1,
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "138544",
+      "title": "Frontend Developer",
+      "url": "https://basf.jobs/job-invite/138544/?locale=en_US",
+      "country": "India",
+      "city": "Godrej One - Mumbai",
+      "state": "Maharashtra",
+      "job_field": "Procurement",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-05-19T01:11:06Z",
+      "description_preview": "We are seeking a Frontend Engineer (JavaScript / React) to design and build intuitive, high-quality user interfaces for our applications. In this role, you will be responsible for developing responsive and maintainable frontend solutions, working closely with backend engineers, designers, and other stakeholders to...",
+      "detail_path": "data/jobs/138544.json"
+    }
+  ]
+}

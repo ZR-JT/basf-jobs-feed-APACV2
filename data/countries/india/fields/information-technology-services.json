@@ -1,0 +1,25 @@
+{
+  "last_updated": "2026-06-09T10:50:18Z",
+  "scope": "country_field",
+  "country": "India",
+  "job_field": "Information Technology & Services",
+  "total_active": 1,
+  "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
+  "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
+  "jobs": [
+    {
+      "job_id": "132997",
+      "title": "Talent Community | BASF Digital Hub Hyderabad",
+      "url": "https://basf.jobs/job-invite/132997/?locale=en_US",
+      "country": "India",
+      "city": "Hyderabad",
+      "state": "Andhra Pradesh",
+      "job_field": "Information Technology & Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-02-04T15:03:41Z",
+      "description_preview": "WELCOME TO BASF At BASF Digital Hub Hyderabad, we’re shaping the future of the chemical industry through innovation, creativity, and collaboration. As we continue to grow, we’re building a talent pipeline for IT Professionals who want to make a difference. WHY JOIN OUR TALENT COMMUNITY? We are continuously building a...",
+      "detail_path": "data/jobs/132997.json"
+    }
+  ]
+}
