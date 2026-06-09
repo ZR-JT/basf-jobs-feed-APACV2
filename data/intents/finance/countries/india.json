@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T10:50:18Z",
+  "last_updated": "2026-06-09T14:37:11Z",
   "scope": "intent_country",
   "intent": "finance",
   "display_name": "Finance / Controlling / Audit",
@@ -248,20 +248,6 @@
       "date_posted": "2026-01-21T01:43:22Z",
       "description_preview": "MAIN TASKS Synthesis and scale-up of small organic molecules / intermediates / active ingredients on milligram to multikilogram quantities Planning of synthesis including retrosynthesis and literature search Process development optimization of routes to advanced intermediates/finished products (chemical, physical and...",
       "detail_path": "data/jobs/131297.json"
-    },
-    {
-      "job_id": "130215",
-      "title": "Chemist - Application Technology Rinse-off",
-      "url": "https://basf.jobs/job-invite/130215/?locale=en_US",
-      "country": "India",
-      "city": "Navi Mumbai - HO (Innovation Campus)",
-      "state": "Maharashtra",
-      "job_field": "Research & Development",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "date_posted": "2026-01-20T07:47:24Z",
-      "description_preview": "(A) Core Purpose Develop rinse-off application technology based on business needs and contribute to build up identified technical competences and the necessary know how for South Asia market and beyond. Contribute to regional technical support and preparation of promotion kits for rinse-off product portfolio....",
-      "detail_path": "data/jobs/130215.json"
     },
     {
       "job_id": "138544",
@@ -1382,6 +1368,20 @@
       "date_posted": "2026-01-20T08:56:36Z",
       "description_preview": "(A) Core Purpose Be responsible for building up application technology competences in rinse-off areas, especially bar soap and hair conditioning e.g. hair oils and shampoo. Lead and develop regional marketing concepts, support key customer projects based on identified business needs in South Asia Be responsible for...",
       "detail_path": "data/jobs/130205.json"
+    },
+    {
+      "job_id": "130215",
+      "title": "Assistant Manager - Application Technology Skin Rinse Off",
+      "url": "https://basf.jobs/job-invite/130215/?locale=en_US",
+      "country": "India",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "state": "Maharashtra",
+      "job_field": "Research & Development",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "date_posted": "2026-01-20T07:47:24Z",
+      "description_preview": "(A) Core Purpose Develop rinse-off application technology based on business needs and contribute to build up identified technical competences and the necessary know how for South Asia market and beyond. Contribute to regional technical support and preparation of promotion kits for rinse-off product portfolio....",
+      "detail_path": "data/jobs/130215.json"
     },
     {
       "job_id": "130578",
