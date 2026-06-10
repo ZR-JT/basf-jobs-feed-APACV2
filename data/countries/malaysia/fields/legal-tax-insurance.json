@@ -3,37 +3,8 @@
   "scope": "country_field",
   "country": "Malaysia",
   "job_field": "Legal, Tax & Insurance",
-  "total_active": 2,
+  "total_active": 0,
   "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
   "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
-  "jobs": [
-    {
-      "job_id": "138838",
-      "title": "Counsel, Legal & Compliance Services Hub (Thai Speaker)",
-      "url": "https://basf.jobs/job-invite/138838/?locale=en_US",
-      "country": "Malaysia",
-      "city": "Kuala Lumpur",
-      "state": "Wilayah Persekutuan Kuala Lumpur",
-      "job_field": "Legal, Tax & Insurance",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "date_posted": "2026-06-05T07:53:31Z",
-      "description_preview": "Main Tasks You will draft, review, and negotiate local or international legal and intellectual property contracts, using templates and playbooks within defined limits. You will provide legal and compliance support on various matters, including due diligence, merger and acquisition projects, audits, and legal...",
-      "detail_path": "data/jobs/138838.json"
-    },
-    {
-      "job_id": "138582",
-      "title": "Corporate Insurance (Specialist)",
-      "url": "https://basf.jobs/job-invite/138582/?locale=en_US",
-      "country": "Malaysia",
-      "city": "Kuala Lumpur",
-      "state": "Wilayah Persekutuan Kuala Lumpur",
-      "job_field": "Legal, Tax & Insurance",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "date_posted": "2026-05-28T10:37:25Z",
-      "description_preview": "The Corporate Insurance (CLI) Specialist will serve as the gatekeeper and central coordination point for insurance related governance activities across countries. The role ensures consistency, accuracy, compliance, and clear accountability for all insurance data, reporting, and coordination activities within the CLI...",
-      "detail_path": "data/jobs/138582.json"
-    }
-  ]
+  "jobs": []
 }

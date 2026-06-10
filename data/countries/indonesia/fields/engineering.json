@@ -3,23 +3,8 @@
   "scope": "country_field",
   "country": "Indonesia",
   "job_field": "Engineering",
-  "total_active": 1,
+  "total_active": 0,
   "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
   "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
-  "jobs": [
-    {
-      "job_id": "135123",
-      "title": "Assistant Manager, Technology, Asia Pacific",
-      "url": "https://basf.jobs/job-invite/135123/?locale=en_US",
-      "country": "Indonesia",
-      "city": "Jakarta",
-      "state": "Jakarta Raya",
-      "job_field": "Engineering",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "date_posted": "2026-04-21T01:47:13Z",
-      "description_preview": "Objectives: Responsible for supporting implementation of formulation technology transfer to own sites and contract manufacturers (CM) in APA including consistency check and update of technical database. Responsible for providing technical support and troubleshooting to own sites and contract manufacturers, support as...",
-      "detail_path": "data/jobs/135123.json"
-    }
-  ]
+  "jobs": []
 }

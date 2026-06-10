@@ -3,23 +3,8 @@
   "scope": "country_field",
   "country": "Japan",
   "job_field": "Procurement",
-  "total_active": 1,
+  "total_active": 0,
   "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
   "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
-  "jobs": [
-    {
-      "job_id": "138238",
-      "title": "Regional Category Buyer  - Tokyo",
-      "url": "https://basf.jobs/job-invite/138238/?locale=en_US",
-      "country": "Japan",
-      "city": "Tokyo",
-      "state": "Tokyo",
-      "job_field": "Procurement",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "date_posted": "2026-05-15T09:24:33Z",
-      "description_preview": "Regional Category Buyer （Assistant Manager but non-manager Role ） ■ポジション概要 本ポジションは、日本市場向けパフォーマンスケミカル（スチレン、グリコール類など）および原材料およびエネルギー（天然ガス・工業用ガス・電力・再生可能エネルギー等）の調達戦略を担い、競争力ある調達と安定供給の実現に貢献いただく重要な役割です。サプライヤーとの戦略的交渉・契約管理・関係構築を通じてコスト最適化を推進しながら、日本市場における市場の分析（政策、料金体系、インセンティブ、主要プレイヤー、投資動向等）を行い、持続可能かつ効率的な調達体制の構築をリードいただきます。...",
-      "detail_path": "data/jobs/138238.json"
-    }
-  ]
+  "jobs": []
 }

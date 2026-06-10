@@ -3,37 +3,8 @@
   "scope": "country_field",
   "country": "Indonesia",
   "job_field": "Marketing & Sales",
-  "total_active": 2,
+  "total_active": 0,
   "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
   "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
-  "jobs": [
-    {
-      "job_id": "139175",
-      "title": "Industry Manager, ASEAN",
-      "url": "https://basf.jobs/job-invite/139175/?locale=en_US",
-      "country": "Indonesia",
-      "city": "Jakarta",
-      "state": "Jakarta Raya",
-      "job_field": "Marketing & Sales",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "date_posted": "2026-05-29T16:00:00Z",
-      "description_preview": "Job Objectives : Industry Manager, ASEAN is responsible for leading and driving the overall sales strategy, business growth, and market expansion across the ASEAN sub-region for Dispersion Business Unit (Fiber Bonding Adhesive, Paper Carpet Dispersion Industry). This role oversee sub-regional sales operations, key...",
-      "detail_path": "data/jobs/139175.json"
-    },
-    {
-      "job_id": "131922",
-      "title": "Sales Manager",
-      "url": "https://basf.jobs/job-invite/131922/?locale=en_US",
-      "country": "Indonesia",
-      "city": "Jakarta",
-      "state": "Jakarta Raya",
-      "job_field": "Marketing & Sales",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "date_posted": "2026-01-12T01:17:33Z",
-      "description_preview": "Objectives of the Position: Focus on maintaining and developing BASF Chemical Catalysts business in Indonesia. Sales activities to achieve business targets. Collect and analyze market information; develop key account strategies. Build relationships with engineering companies, associations, and producers. Maintain good...",
-      "detail_path": "data/jobs/131922.json"
-    }
-  ]
+  "jobs": []
 }

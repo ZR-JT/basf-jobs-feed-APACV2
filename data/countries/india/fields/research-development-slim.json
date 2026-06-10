@@ -1,0 +1,79 @@
+{
+  "last_updated": "2026-06-10T12:45:10Z",
+  "scope": "country_field_slim",
+  "country": "India",
+  "job_field": "Research & Development",
+  "total_active": 10,
+  "jobs": [
+    {
+      "job_level": "Graduate",
+      "title": "Assistant Research Scientist I",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "url": "https://basf.jobs/job-invite/139489/?locale=en_US",
+      "job_id": "139489"
+    },
+    {
+      "job_level": "Graduate",
+      "title": "Assistant Research Scientist I",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "url": "https://basf.jobs/job-invite/139468/?locale=en_US",
+      "job_id": "139468"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Assistant Chemist",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "url": "https://basf.jobs/job-invite/139411/?locale=en_US",
+      "job_id": "139411"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Assistant Manager - Pigment and Paste",
+      "city": "Mangalore",
+      "url": "https://basf.jobs/job-invite/139239/?locale=en_US",
+      "job_id": "139239"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Research chemist",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "url": "https://basf.jobs/job-invite/135301/?locale=en_US",
+      "job_id": "135301"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Research chemist",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "url": "https://basf.jobs/job-invite/135300/?locale=en_US",
+      "job_id": "135300"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Research Chemist",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "url": "https://basf.jobs/job-invite/131297/?locale=en_US",
+      "job_id": "131297"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Lab Team Leader",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "url": "https://basf.jobs/job-invite/131099/?locale=en_US",
+      "job_id": "131099"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Deputy Manager - Application Technology Rinse-off",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "url": "https://basf.jobs/job-invite/130205/?locale=en_US",
+      "job_id": "130205"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Chemist - Application Technology Rinse-off",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "url": "https://basf.jobs/job-invite/130215/?locale=en_US",
+      "job_id": "130215"
+    }
+  ]
+}

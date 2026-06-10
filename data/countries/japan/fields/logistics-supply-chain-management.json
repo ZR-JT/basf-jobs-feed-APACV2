@@ -3,23 +3,8 @@
   "scope": "country_field",
   "country": "Japan",
   "job_field": "Logistics & Supply Chain Management",
-  "total_active": 1,
+  "total_active": 0,
   "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
   "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
-  "jobs": [
-    {
-      "job_id": "138633",
-      "title": "Staff of Customer Service,Tokyo,EM",
-      "url": "https://basf.jobs/job-invite/138633/?locale=en_US",
-      "country": "Japan",
-      "city": "Tokyo",
-      "state": "Tokyo",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "date_posted": "2026-05-28T03:06:41Z",
-      "description_preview": "Staff of Customer Service,EM,Tokyo,Japan 本ポジションでは、カスタマーサービスにおける受注から入金までのプロセス（OTC: Order to Cash）を適切に管理し、業務改善や顧客満足の向上を推進します。 また、サプライチェーン指標（KPI）の分析を通じて、業務効率の改善やビジネス成長への貢献を行います。 主な役割： ・プロセスの管理および業務効率の改善 ・SCM KPIの分析および改善施策の実行 ・顧客ニーズに応じたサービス提供による売上・利益への貢献 ・サプライチェーン関連プロジェクトへの参画 In this role, you will manage the...",
-      "detail_path": "data/jobs/138633.json"
-    }
-  ]
+  "jobs": []
 }

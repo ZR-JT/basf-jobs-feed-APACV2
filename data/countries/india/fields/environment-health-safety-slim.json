@@ -1,0 +1,23 @@
+{
+  "last_updated": "2026-06-10T12:45:10Z",
+  "scope": "country_field_slim",
+  "country": "India",
+  "job_field": "Environment, Health & Safety",
+  "total_active": 2,
+  "jobs": [
+    {
+      "job_level": "Professional",
+      "title": "Manager-Occupational, Transport & Environment Safety",
+      "city": "Godrej One - Mumbai",
+      "url": "https://basf.jobs/job-invite/133873/?locale=en_US",
+      "job_id": "133873"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Manager - Process Safety & Emergency Response",
+      "city": "Godrej One - Mumbai",
+      "url": "https://basf.jobs/job-invite/132795/?locale=en_US",
+      "job_id": "132795"
+    }
+  ]
+}

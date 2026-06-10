@@ -3,79 +3,8 @@
   "scope": "country_field",
   "country": "Indonesia",
   "job_field": "Production, Maintenance & Technical Services",
-  "total_active": 5,
+  "total_active": 0,
   "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
   "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
-  "jobs": [
-    {
-      "job_id": "138840",
-      "title": "I/E Engineer or Sr I/E Technician",
-      "url": "https://basf.jobs/job-invite/138840/?locale=en_US",
-      "country": "Indonesia",
-      "city": "Merak",
-      "state": "Banten",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "date_posted": "2026-06-04T07:58:58Z",
-      "description_preview": "Objectives: To support Production, Utility, QC, PPIC, and QC-Lab Department Main Responsibility: EHS Process Safety related: Comply and follow all EHS regulations Work safely in accordance with the occupational safety rules applicable at PT BASF Indonesia, Merak plant. Production related: To install, replace, and...",
-      "detail_path": "data/jobs/138840.json"
-    },
-    {
-      "job_id": "138645",
-      "title": "DCS Operator",
-      "url": "https://basf.jobs/job-invite/138645/?locale=en_US",
-      "country": "Indonesia",
-      "city": "Merak",
-      "state": "Banten",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "date_posted": "2026-06-03T03:06:55Z",
-      "description_preview": "Tujuan Umum Posisi Ini: Bertanggung jawab penuh terhadap kelancaran proses produksi untuk mendapatkan produk sesuai dengan target produksi yang sudah ditetapkan. Target ini baik dalam kuantitas, kualitas, ketepatan waktu dan juga keamanan proses Bertanggung jawab penuh terhadap semua peraturan dan prosedur EHS...",
-      "detail_path": "data/jobs/138645.json"
-    },
-    {
-      "job_id": "135412",
-      "title": "Production Engineer",
-      "url": "https://basf.jobs/job-invite/135412/?locale=en_US",
-      "country": "Indonesia",
-      "city": "Merak",
-      "state": "Banten",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "date_posted": "2026-04-13T02:03:26Z",
-      "description_preview": "Objectives of the Position: Responsible for and ensuring that the production process runs efficiently and effectively. Comply and follow all EHS regulations Main Tasks: EHS Process Safety related: Comply and follow all EHS regulations Act as the work permit issuer (G1) in the production area according to the work...",
-      "detail_path": "data/jobs/135412.json"
-    },
-    {
-      "job_id": "131778",
-      "title": "Mechanical Technician (Leasing) 1",
-      "url": "https://basf.jobs/job-invite/131778/?locale=en_US",
-      "country": "Indonesia",
-      "city": "Jakarta",
-      "state": "Jakarta Raya",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "date_posted": "2026-01-06T01:09:43Z",
-      "description_preview": "Main Responsibilities: Memastikan bahwa kegiatan pemeliharaan tidak mengganggu atau menimbulkan masalah bagi perusahaan dan lingkungan Memastikan semua peraturan dan ketentuan kesehatan dan keselamatan kerja sesuai dengan undang-undang pemerintah dan protokol perusahaan Menerapkan kebijakan dan standar keselamatan di...",
-      "detail_path": "data/jobs/131778.json"
-    },
-    {
-      "job_id": "131441",
-      "title": "Electrical Technician (Leasing)",
-      "url": "https://basf.jobs/job-invite/131441/?locale=en_US",
-      "country": "Indonesia",
-      "city": "Jakarta",
-      "state": "Jakarta Raya",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "date_posted": "2025-12-17T02:05:44Z",
-      "description_preview": "Main Responsibilities: Memastikan bahwa kegiatan pemeliharaan tidak mengganggu atau menimbulkan masalah bagi perusahaan dan lingkungan Memastikan semua peraturan dan ketentuan kesehatan dan keselamatan kerja sesuai dengan undang-undang pemerintah dan protokol perusahaan Menerapkan kebijakan dan standar keselamatan di...",
-      "detail_path": "data/jobs/131441.json"
-    }
-  ]
+  "jobs": []
 }

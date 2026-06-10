@@ -1,0 +1,37 @@
+{
+  "last_updated": "2026-06-10T12:45:10Z",
+  "scope": "country_field_slim",
+  "country": "India",
+  "job_field": "Finance, Controlling & Audit",
+  "total_active": 4,
+  "jobs": [
+    {
+      "job_level": "Professional",
+      "title": "GB/G Head of Finance Services",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/139329/?locale=en_US",
+      "job_id": "139329"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Manager - Business/Site Controller 1",
+      "city": "Mangalore",
+      "url": "https://basf.jobs/job-invite/138711/?locale=en_US",
+      "job_id": "138711"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Business Controller - Performance Materials, India",
+      "city": "Godrej One - Mumbai",
+      "url": "https://basf.jobs/job-invite/135326/?locale=en_US",
+      "job_id": "135326"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Deputy Manager - Reporting & MIS",
+      "city": "Godrej One - Mumbai",
+      "url": "https://basf.jobs/job-invite/135052/?locale=en_US",
+      "job_id": "135052"
+    }
+  ]
+}

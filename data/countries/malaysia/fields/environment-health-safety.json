@@ -3,37 +3,8 @@
   "scope": "country_field",
   "country": "Malaysia",
   "job_field": "Environment, Health & Safety",
-  "total_active": 2,
+  "total_active": 0,
   "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
   "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
-  "jobs": [
-    {
-      "job_id": "132786",
-      "title": "Intern, Environmental, Health, and Safety",
-      "url": "https://basf.jobs/job-invite/132786/?locale=en_US",
-      "country": "Malaysia",
-      "city": "Pasir Gudang",
-      "state": "Johor",
-      "job_field": "Environment, Health & Safety",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "date_posted": "2026-06-09T09:40:02Z",
-      "description_preview": "Objectives of the Position Preparation for Responsible Care (RC) Audit Preparedness, Global Safety Day and upcoming RC Audit for Pasir Gudang Site On-demand EHS services related to EHS Management System (EHSMS) Helping and maintain site EHS requirements Main Tasks EHS Management System : Assist in updating and...",
-      "detail_path": "data/jobs/132786.json"
-    },
-    {
-      "job_id": "138632",
-      "title": "Product Safety, Senior Specialist (Japanese Speaker)",
-      "url": "https://basf.jobs/job-invite/138632/?locale=en_US",
-      "country": "Malaysia",
-      "city": "Kuala Lumpur",
-      "state": "Wilayah Persekutuan Kuala Lumpur",
-      "job_field": "Environment, Health & Safety",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "date_posted": "2026-05-20T06:34:43Z",
-      "description_preview": "O bjectives of the Position Deliver expert regulatory and product stewardship support to BASF group companies, ensuring full compliance with corporate policies, guidelines, and global standards. Collaborate effectively with cross-functional stakeholders including supply chain, customer service, and technical teams to...",
-      "detail_path": "data/jobs/138632.json"
-    }
-  ]
+  "jobs": []
 }

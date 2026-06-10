@@ -3,7 +3,7 @@
   "scope": "country_field",
   "country": "India",
   "job_field": "Production, Maintenance & Technical Services",
-  "total_active": 9,
+  "total_active": 7,
   "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
   "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
   "jobs": [
@@ -104,34 +104,6 @@
       "date_posted": "2025-10-09T08:15:55Z",
       "description_preview": "Objectives of the Position Responsibility of Technical, Quality and cost-effective manufacturing of Dispersions Operations. It also involves plant and process safety, Health and Environmental activities related to the plant and personnel working in the plant. Main Areas of Responsibilities and Key Activities...",
       "detail_path": "data/jobs/128583.json"
-    },
-    {
-      "job_id": "117661",
-      "title": "Assistant Manager Production",
-      "url": "https://basf.jobs/job-invite/117661/?locale=en_US",
-      "country": "India",
-      "city": "Mangalore",
-      "state": "Karnataka",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "date_posted": "2025-02-18T08:03:08Z",
-      "description_preview": "O bjecti v es of t h e P osi t ion: Lead Safety, Health and Environment at workplace. Coordinating and monitoring the production as per the decided norms, under the directions of Production Manager. To supervise and monitor planned production activities in respective shift through a team of workmen, operators and...",
-      "detail_path": "data/jobs/117661.json"
-    },
-    {
-      "job_id": "115619",
-      "title": "Executive - Production",
-      "url": "https://basf.jobs/job-invite/115619/?locale=en_US",
-      "country": "India",
-      "city": "Mangalore",
-      "state": "Karnataka",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "date_posted": "2025-01-07T06:30:24Z",
-      "description_preview": "O bjecti v es of t h e P osi t ion Responsibility of Technical, Quality and cost-effective manufacturing of Dispersions Operations. It also involves plant and process safety, Health and Environmental activities related to the plant and personnel working in the plant. M ain Areas of Responsibilities and Key Activities...",
-      "detail_path": "data/jobs/115619.json"
     }
   ]
 }

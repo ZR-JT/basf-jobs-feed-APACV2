@@ -3,23 +3,8 @@
   "scope": "country_field",
   "country": "Singapore",
   "job_field": "Marketing & Sales",
-  "total_active": 1,
+  "total_active": 0,
   "link_rule": "Application links must be copied only from job.url. Never construct basf.jobs links.",
   "llm_instruction": "Use this small file for country-and-function-specific matching. Descriptions are short previews. Fetch detail_path only for shortlisted roles. Copy job URLs exactly from job.url. Never construct basf.jobs links.",
-  "jobs": [
-    {
-      "job_id": "139347",
-      "title": "Specialist - Regional Commercial Excellence APAC",
-      "url": "https://basf.jobs/job-invite/139347/?locale=en_US",
-      "country": "Singapore",
-      "city": "Singapore",
-      "state": "Singapore",
-      "job_field": "Marketing & Sales",
-      "job_level": "Other",
-      "job_type": "Permanent",
-      "date_posted": "2026-06-05T04:30:04Z",
-      "description_preview": "Overall objective of the position : To drive profitable growth and commercial excellence across the region by translating strategy into execution, optimizing pricing and sales performance and enabling data-driven decision-making through standardized processes, tools and cross-functional collaboration. Main tasks :...",
-      "detail_path": "data/jobs/139347.json"
-    }
-  ]
+  "jobs": []
 }

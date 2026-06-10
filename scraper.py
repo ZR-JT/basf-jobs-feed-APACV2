@@ -25,67 +25,10 @@ DESCRIPTION_DETAIL_CHARS = 2500
 PAGE_SIZE = 1000
 
 ASIA_COUNTRIES = {
-    "Afghanistan",
-    "Armenia",
-    "Azerbaijan",
-    "Bahrain",
-    "Bangladesh",
-    "Bhutan",
-    "Brunei",
-    "Cambodia",
-    "China",
-    "Georgia",
-    "Hong Kong",
     "India",
-    "Indonesia",
-    "Iran",
-    "Iraq",
-    "Israel",
-    "Japan",
-    "Jordan",
-    "Kazakhstan",
-    "Kuwait",
-    "Kyrgyzstan",
-    "Laos",
-    "Lebanon",
-    "Macau",
-    "Malaysia",
-    "Maldives",
-    "Mongolia",
-    "Myanmar",
-    "Nepal",
-    "Oman",
-    "Pakistan",
-    "Philippines",
-    "Qatar",
-    "Saudi Arabia",
-    "Singapore",
-    "South Korea",
-    "Sri Lanka",
-    "Taiwan",
-    "Tajikistan",
-    "Thailand",
-    "Turkey",
-    "Turkmenistan",
-    "United Arab Emirates",
-    "Uzbekistan",
-    "Vietnam",
 }
 
-COUNTRY_ALIASES = {
-    "Hong Kong SAR": "Hong Kong",
-    "Hong Kong S.A.R.": "Hong Kong",
-    "Macao": "Macau",
-    "Macau SAR": "Macau",
-    "Korea": "South Korea",
-    "Korea, Republic of": "South Korea",
-    "Republic of Korea": "South Korea",
-    "UAE": "United Arab Emirates",
-    "Viet Nam": "Vietnam",
-    "Türkiye": "Turkey",
-    "Turkiye": "Turkey",
-    "Turky": "Turkey",
-}
+COUNTRY_ALIASES = {}
 
 PREFERRED_LOCALES = ["en_US", "en_IN", "en_SG", "en_MY", "en_CN", "en_JP", "de_DE", "de_AT", "de_CH"]
 
@@ -321,6 +264,17 @@ def compact_job(j, include_preview=True, include_detail_path=True):
     return {k: v for k, v in entry.items() if v not in ("", None, {})}
 
 
+def slim_job(j):
+    entry = {
+        "job_id": j.get("job_id", ""),
+        "title": j.get("title", ""),
+        "url": j.get("url", ""),
+        "city": j.get("city", ""),
+        "job_level": j.get("job_level", ""),
+    }
+    return {k: v for k, v in entry.items() if v not in ("", None)}
+
+
 def detail_job(j):
     entry = {
         "job_id": j.get("job_id", ""),
@@ -533,12 +487,24 @@ def deduplicate_jobs(raw_jobs):
 def transform_jobs(job_map):
     jobs = []
     skipped_without_valid_url = 0
+    skipped_too_old = 0
+    cutoff = datetime.utcnow().replace(tzinfo=None)
 
     for numeric_id, job in job_map.items():
         url = (job.get("link") or "").strip()
         if not is_valid_basf_url(url):
             skipped_without_valid_url += 1
             continue
+
+        raw_date = (job.get("datePosted") or "").strip()
+        if raw_date:
+            try:
+                posted = datetime.strptime(raw_date[:19], "%Y-%m-%dT%H:%M:%S")
+                if (cutoff - posted).days > 365:
+                    skipped_too_old += 1
+                    continue
+            except ValueError:
+                pass
 
         addr, country = first_asia_address(job)
         city = addr.get("city") or addr.get("locationCity") or "Unknown"
@@ -566,7 +532,9 @@ def transform_jobs(job_map):
         jobs.append(entry)
 
     if skipped_without_valid_url:
-        print(f"⚠️ {skipped_without_valid_url} jobs skipped because no verified basf.jobs URL was present.")
+        print(f"Warning: {skipped_without_valid_url} jobs skipped because no verified basf.jobs URL was present.")
+    if skipped_too_old:
+        print(f"Warning: {skipped_too_old} jobs skipped because date_posted is older than 365 days.")
 
     jobs.sort(key=lambda j: j.get("date_posted", ""), reverse=True)
     return jobs
@@ -639,6 +607,16 @@ def write_non_india_apac_files(jobs, timestamp):
         }
         with open(f"data/apac/non-india/fields/{field_slug}.json", "w", encoding="utf-8") as f:
             json.dump(field_payload, f, ensure_ascii=False, indent=2)
+
+        slim_payload = {
+            "last_updated": timestamp,
+            "scope": "non_india_apac_field_slim",
+            "job_field": field,
+            "total_active": len(field_jobs),
+            "jobs": [slim_job(job) for job in field_jobs],
+        }
+        with open(f"data/apac/non-india/fields/{field_slug}-slim.json", "w", encoding="utf-8") as f:
+            json.dump(slim_payload, f, ensure_ascii=False, indent=2)
 
 
 def write_intent_files(jobs, grouped_by_country, timestamp):
@@ -905,6 +883,18 @@ def write_json_files(jobs, grouped_by_country, grouped_by_country_field):
             }
             with open(field_path, "w", encoding="utf-8") as f:
                 json.dump(field_payload, f, ensure_ascii=False, indent=2)
+
+            slim_path = f"{field_dir}/{field_slug}-slim.json"
+            slim_payload = {
+                "last_updated": timestamp,
+                "scope": "country_field_slim",
+                "country": country,
+                "job_field": field,
+                "total_active": len(field_jobs),
+                "jobs": [slim_job(job) for job in field_jobs],
+            }
+            with open(slim_path, "w", encoding="utf-8") as f:
+                json.dump(slim_payload, f, ensure_ascii=False, indent=2)
 
             field_routes.append(
                 {

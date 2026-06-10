@@ -1,0 +1,23 @@
+{
+  "last_updated": "2026-06-10T12:45:10Z",
+  "scope": "country_field_slim",
+  "country": "India",
+  "job_field": "Engineering",
+  "total_active": 2,
+  "jobs": [
+    {
+      "job_level": "Professional",
+      "title": "Deputy Manager - Engineering & Maintenance",
+      "city": "Mangalore",
+      "url": "https://basf.jobs/job-invite/138715/?locale=en_US",
+      "job_id": "138715"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Process engineer",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "url": "https://basf.jobs/job-invite/135271/?locale=en_US",
+      "job_id": "135271"
+    }
+  ]
+}

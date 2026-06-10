@@ -1,0 +1,793 @@
+{
+  "last_updated": "2026-06-10T12:45:10Z",
+  "scope": "country_field_slim",
+  "country": "India",
+  "job_field": "Digitalization",
+  "total_active": 112,
+  "jobs": [
+    {
+      "job_level": "Professional",
+      "title": "GDA/AH - Senior Digital Experience Engineer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/139292/?locale=en_US",
+      "job_id": "139292"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GD/IC - Digital Portfolio Steering Specialist (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/139291/?locale=en_US",
+      "job_id": "139291"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/DH - Scrum Master (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/139289/?locale=en_US",
+      "job_id": "139289"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/MA - SAP Developer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/139281/?locale=en_US",
+      "job_id": "139281"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/ZF - External data management specialist (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138977/?locale=en_US",
+      "job_id": "138977"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/FB - Software Engineer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138976/?locale=en_US",
+      "job_id": "138976"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/MD - SAP Developer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138975/?locale=en_US",
+      "job_id": "138975"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/XD - Senior Specialist Data Governance (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138973/?locale=en_US",
+      "job_id": "138973"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDS/CD - Solution Architect Directory Services (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138972/?locale=en_US",
+      "job_id": "138972"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/DG - Product Manager/ S4 Hana AMS (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138969/?locale=en_US",
+      "job_id": "138969"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GD/CX - Controlling Specialist (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138968/?locale=en_US",
+      "job_id": "138968"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDS/CC - Solution Architect IDM (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138966/?locale=en_US",
+      "job_id": "138966"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDS/CG - Solution Architect IAM  (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138965/?locale=en_US",
+      "job_id": "138965"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/A - Product Owner Orchestration (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138964/?locale=en_US",
+      "job_id": "138964"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/PH - Application Support Engineer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138963/?locale=en_US",
+      "job_id": "138963"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/EK - SAP PM & Cross-Product Manager (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138962/?locale=en_US",
+      "job_id": "138962"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDS/BA- Senior Specialist Cyber Security Strategy Architecture (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138960/?locale=en_US",
+      "job_id": "138960"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/FB - SAP Consultant (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138959/?locale=en_US",
+      "job_id": "138959"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDS/CA - Solution Architect Device Security (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138958/?locale=en_US",
+      "job_id": "138958"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/EQ - Senior Full Stack Developer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138957/?locale=en_US",
+      "job_id": "138957"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/EQ - Senior DevOps Engineer SAP PM (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138956/?locale=en_US",
+      "job_id": "138956"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/EQ - Junior SAP PM Support Engineer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138955/?locale=en_US",
+      "job_id": "138955"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDF/BA - Salesforce Power BI / Databricks Architect (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138954/?locale=en_US",
+      "job_id": "138954"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDF/BA - Salesforce Senior Specialist Digitalization (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138953/?locale=en_US",
+      "job_id": "138953"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GD/CK - Controlling Specialist (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138951/?locale=en_US",
+      "job_id": "138951"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/DF - SAP Developer - ABAP (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138949/?locale=en_US",
+      "job_id": "138949"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/DF - SAP Consultant - MM (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138948/?locale=en_US",
+      "job_id": "138948"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/DF - Integration engineer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138947/?locale=en_US",
+      "job_id": "138947"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/MA - SAP Consultant - ATP (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138946/?locale=en_US",
+      "job_id": "138946"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/MA - Solution Architect (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138945/?locale=en_US",
+      "job_id": "138945"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDF/AF - Solution Consultant System Integration (EDI, Purchase-to-Pay) (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138765/?locale=en_US",
+      "job_id": "138765"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/Z - SAP Datasphere Platform Engineer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138925/?locale=en_US",
+      "job_id": "138925"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/EN - Platform engineer CAE solutions  (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138924/?locale=en_US",
+      "job_id": "138924"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/EN - Solution designer 3rd party SW solutions (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138923/?locale=en_US",
+      "job_id": "138923"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/X - Agentic AI Architect (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138921/?locale=en_US",
+      "job_id": "138921"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/X - Junior Agentic AI Engineer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138920/?locale=en_US",
+      "job_id": "138920"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDF/CR - DevOps Engineer Integration (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138919/?locale=en_US",
+      "job_id": "138919"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDF/CN - DevOps Engineer OMP SnOP (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138918/?locale=en_US",
+      "job_id": "138918"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/X - Senior Agentic AI Engineer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138917/?locale=en_US",
+      "job_id": "138917"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDF/BF - Digital Pricing Expert (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138915/?locale=en_US",
+      "job_id": "138915"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/MC - SAP Developer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138914/?locale=en_US",
+      "job_id": "138914"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/MC - Senior DevOps Engineer SAP SD (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138912/?locale=en_US",
+      "job_id": "138912"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/AD - SAP Authorization Specialist (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138911/?locale=en_US",
+      "job_id": "138911"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/FE - Software Engineer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138910/?locale=en_US",
+      "job_id": "138910"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/ME - SAP Developer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138909/?locale=en_US",
+      "job_id": "138909"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/A - Product Manager SAP Authorization (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138908/?locale=en_US",
+      "job_id": "138908"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/DC - DevOps Engineer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138907/?locale=en_US",
+      "job_id": "138907"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/DA - SAP Consultant (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138906/?locale=en_US",
+      "job_id": "138906"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/DC - Senior Full-Stack Engineer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138904/?locale=en_US",
+      "job_id": "138904"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/EC - SAP Developer - HR Authorizations in SAP HCM (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138905/?locale=en_US",
+      "job_id": "138905"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/EC - SAP Consultant- SAP SuccessFactors Onboarding 2.0 (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138903/?locale=en_US",
+      "job_id": "138903"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/BG - Senior DevOps Engineer NCM (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138901/?locale=en_US",
+      "job_id": "138901"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/EC - SAP Developer - Personnel Administration & Organizational Management (SAP HCM) (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138902/?locale=en_US",
+      "job_id": "138902"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GD/CD - Controlling Specialist (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138900/?locale=en_US",
+      "job_id": "138900"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/BG - Senior Business Solution Consultant NCM (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138899/?locale=en_US",
+      "job_id": "138899"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/AC - Senior Automation Engineer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138898/?locale=en_US",
+      "job_id": "138898"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDA/AT- Systems Engineer - Application Specialist (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138897/?locale=en_US",
+      "job_id": "138897"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/BH - Senior Full Stack SAP Developer - SAP QM (Quality Management) Knowledge (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138896/?locale=en_US",
+      "job_id": "138896"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/BH - Senior Business Solution Consultant - SAP QM (Quality Management) (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138894/?locale=en_US",
+      "job_id": "138894"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDA/AT - Senior System Engineer - Application Owner (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138895/?locale=en_US",
+      "job_id": "138895"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/EG - SAP BDC/Dataspher/BW4Hana expert (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138893/?locale=en_US",
+      "job_id": "138893"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/GE - MM Functional Consultant (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138891/?locale=en_US",
+      "job_id": "138891"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/GE - Specialist Warehouse Management (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138892/?locale=en_US",
+      "job_id": "138892"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDF/BB - IT Program Architect (Salesforce and CRM Digital Solutions Expert) (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138890/?locale=en_US",
+      "job_id": "138890"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDF/BB - Salesforce Platform Administrator (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138706/?locale=en_US",
+      "job_id": "138706"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDS/AB - Cyber Security Risk Manager (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138889/?locale=en_US",
+      "job_id": "138889"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/EK - Senior DevOps Engineer Plant Maintenance & Engineering Project Solutions (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138698/?locale=en_US",
+      "job_id": "138698"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/ZI - Integration Platform Frontend Engineer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138882/?locale=en_US",
+      "job_id": "138882"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/DG - Cloud System Engiineer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138876/?locale=en_US",
+      "job_id": "138876"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/ZI - API Management Specialist (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138879/?locale=en_US",
+      "job_id": "138879"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/ZI - Integration Specialist (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138883/?locale=en_US",
+      "job_id": "138883"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/DG - DevOps Engineer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138878/?locale=en_US",
+      "job_id": "138878"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/DG - Platform Engineer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138877/?locale=en_US",
+      "job_id": "138877"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/ZI - Service Engineer Owner (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138884/?locale=en_US",
+      "job_id": "138884"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/ZI - Integration Platform Engineer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138881/?locale=en_US",
+      "job_id": "138881"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/DG - Senior Platform Engineer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138874/?locale=en_US",
+      "job_id": "138874"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/GD - Yard Management - SAP TM Functional Consultant (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138871/?locale=en_US",
+      "job_id": "138871"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/GD - Yard Management DevOps - Back-End (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138870/?locale=en_US",
+      "job_id": "138870"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/DC - SAP Consultant - COPC (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138869/?locale=en_US",
+      "job_id": "138869"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/DD - SAP Consultant Finance & Tax (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138868/?locale=en_US",
+      "job_id": "138868"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/DD - SAP Consultant- FI/CO (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138867/?locale=en_US",
+      "job_id": "138867"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/EA - SAP Consultant HR Payroll (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138864/?locale=en_US",
+      "job_id": "138864"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/FF - SAP Consultant (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138863/?locale=en_US",
+      "job_id": "138863"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/AE - Platform Engineer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138860/?locale=en_US",
+      "job_id": "138860"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/DB - SAP Consultant (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138859/?locale=en_US",
+      "job_id": "138859"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/ED - SAP Consultant HR Time Management",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138855/?locale=en_US",
+      "job_id": "138855"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/GC - Specialist Warehouse Management (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138854/?locale=en_US",
+      "job_id": "138854"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDS/A - Cyber Security Compliance and Assurance  (M/F/A)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138848/?locale=en_US",
+      "job_id": "138848"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/FC - SAP Consultant (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138847/?locale=en_US",
+      "job_id": "138847"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GD/C - Controlling Specialist (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138837/?locale=en_US",
+      "job_id": "138837"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GD/C - Finance Manager (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138835/?locale=en_US",
+      "job_id": "138835"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/GA - Full Stack Mobile Developer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138815/?locale=en_US",
+      "job_id": "138815"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/BA - SAP Production Consultant (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138817/?locale=en_US",
+      "job_id": "138817"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/PE - Digital Solution Designer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138819/?locale=en_US",
+      "job_id": "138819"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GD/C - Specialist for Digitalization in the Area of Service Charging and Data Analysis (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138821/?locale=en_US",
+      "job_id": "138821"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDF/AF - Middleware Engineer - System Integration (EDI, SAP CPI) (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138812/?locale=en_US",
+      "job_id": "138812"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDF/AF - Middleware Product Owner - System Integration (EDI, SAP CPI) (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138804/?locale=en_US",
+      "job_id": "138804"
+    },
+    {
+      "job_level": "Graduate",
+      "title": "GDF/AF - Solution Consultant System Integration (EDI, Logistics & Transport) (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138802/?locale=en_US",
+      "job_id": "138802"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDF/AF - Solution Consultant System Integration (EDI, Order-to-Invoice) (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138770/?locale=en_US",
+      "job_id": "138770"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/MB - SAP Consultant - functional output (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138764/?locale=en_US",
+      "job_id": "138764"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/MF - SAP Developer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138763/?locale=en_US",
+      "job_id": "138763"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/MF - Solution Architect Automotive (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138762/?locale=en_US",
+      "job_id": "138762"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/MF - AI Engineer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138761/?locale=en_US",
+      "job_id": "138761"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/FD - SAP Consultant (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138699/?locale=en_US",
+      "job_id": "138699"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/PH - Test Automation Engineer (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138697/?locale=en_US",
+      "job_id": "138697"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDE/EB - Solution Designer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138694/?locale=en_US",
+      "job_id": "138694"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDD/PK - Full Stack Developer (m/f/d)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138659/?locale=en_US",
+      "job_id": "138659"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDF/CQ- DevOps Engineer OMP OPR",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138554/?locale=en_US",
+      "job_id": "138554"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDF/CS_Senior Developer",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138297/?locale=en_US",
+      "job_id": "138297"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/ZE - Product Owner Data Products (M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138634/?locale=en_US",
+      "job_id": "138634"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/ZE-Cloud Data Engineer(M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138635/?locale=en_US",
+      "job_id": "138635"
+    },
+    {
+      "job_level": "Professional",
+      "title": "GDB/ZE - Architect Data Products(M/F/D)",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138636/?locale=en_US",
+      "job_id": "138636"
+    }
+  ]
+}

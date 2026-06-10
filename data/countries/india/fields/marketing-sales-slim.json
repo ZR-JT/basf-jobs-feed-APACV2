@@ -1,0 +1,93 @@
+{
+  "last_updated": "2026-06-10T12:45:10Z",
+  "scope": "country_field_slim",
+  "country": "India",
+  "job_field": "Marketing & Sales",
+  "total_active": 12,
+  "jobs": [
+    {
+      "job_level": "Professional",
+      "title": "Sales Manager, Rigids PU - Performance Materials",
+      "city": "New Delhi",
+      "url": "https://basf.jobs/job-invite/139244/?locale=en_US",
+      "job_id": "139244"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Executive - Customer Service, Demand Planner",
+      "city": "Godrej One - Mumbai",
+      "url": "https://basf.jobs/job-invite/139245/?locale=en_US",
+      "job_id": "139245"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Sales Manager PU - Footwear, Sports & Leisure 1",
+      "city": "Delhi",
+      "url": "https://basf.jobs/job-invite/139014/?locale=en_US",
+      "job_id": "139014"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Sales Manager - Animal Nutrition, Vitamins and Carotenoids",
+      "city": "Hyderabad",
+      "url": "https://basf.jobs/job-invite/138941/?locale=en_US",
+      "job_id": "138941"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Regional Product Manager",
+      "city": "Mangalore",
+      "url": "https://basf.jobs/job-invite/138441/?locale=en_US",
+      "job_id": "138441"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Sales Manager - Rigids PU (Construction)",
+      "city": "Godrej One - Mumbai",
+      "url": "https://basf.jobs/job-invite/138100/?locale=en_US",
+      "job_id": "138100"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Assistant Sales Manager, Pharma Solutions",
+      "city": "Godrej One - Mumbai",
+      "url": "https://basf.jobs/job-invite/135312/?locale=en_US",
+      "job_id": "135312"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Manager, Sales India",
+      "city": "Godrej One - Mumbai",
+      "url": "https://basf.jobs/job-invite/135033/?locale=en_US",
+      "job_id": "135033"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Business Development and TD - CASE Applications",
+      "city": "Navi Mumbai - HO (Turbhe)",
+      "url": "https://basf.jobs/job-invite/124942/?locale=en_US",
+      "job_id": "124942"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Assistant Manager - Application Development 1",
+      "city": "Godrej One - Mumbai",
+      "url": "https://basf.jobs/job-invite/131049/?locale=en_US",
+      "job_id": "131049"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Lead - Technical Development, FSL and Head - PU Application Development Lab",
+      "city": "Navi Mumbai - HO (Turbhe)",
+      "url": "https://basf.jobs/job-invite/132417/?locale=en_US",
+      "job_id": "132417"
+    },
+    {
+      "job_level": "Professional",
+      "title": "Deputy Manager - Sales, Acrylic Acid & Esters",
+      "city": "Godrej One - Mumbai",
+      "url": "https://basf.jobs/job-invite/130578/?locale=en_US",
+      "job_id": "130578"
+    }
+  ]
+}
