@@ -275,6 +275,41 @@ def slim_job(j):
     return {k: v for k, v in entry.items() if v not in ("", None)}
 
 
+def india_search_entry(j):
+    words = (j.get("description") or "").split()
+    short_desc = " ".join(words[:20]) + ("..." if len(words) > 20 else "")
+    return {
+        "title":       j.get("title", ""),
+        "url":         j.get("url", ""),
+        "country":     j.get("country", ""),
+        "city":        j.get("city", ""),
+        "job_fields":  [j["job_field"]] if j.get("job_field") else [],
+        "job_level":   j.get("job_level", ""),
+        "description": short_desc,
+        "date_posted": j.get("date_posted", ""),
+    }
+
+
+def write_india_search_jsonl(jobs, timestamp):
+    cutoff = datetime.utcnow().replace(tzinfo=None)
+    india_jobs = []
+    for j in jobs:
+        if j.get("country") != "India":
+            continue
+        raw = (j.get("date_posted") or "").strip()
+        if raw:
+            try:
+                if (cutoff - datetime.strptime(raw[:19], "%Y-%m-%dT%H:%M:%S")).days > 365:
+                    continue
+            except ValueError:
+                pass
+        india_jobs.append(india_search_entry(j))
+    with open("data/search-india.jsonl", "w", encoding="utf-8") as f:
+        for entry in india_jobs:
+            f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+    print(f"search-india.jsonl: {len(india_jobs)} India jobs written.")
+
+
 def detail_job(j):
     entry = {
         "job_id": j.get("job_id", ""),
@@ -981,6 +1016,8 @@ def write_json_files(jobs, grouped_by_country, grouped_by_country_field):
     }
     with open("jobs.json", "w", encoding="utf-8") as f:
         json.dump(aggregate_payload, f, ensure_ascii=False, indent=2)
+
+    write_india_search_jsonl(jobs, timestamp)
 
 
 def generate_country_pages(grouped_by_country, grouped_by_country_field):
